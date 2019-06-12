@@ -520,6 +520,13 @@ ul.arrow {
       .contact-form .email {
         background-image: url("images/icon-contact-envelope@2x.png");
         background-size: 14px 11px; } }
+.name{
+    background-image: url("images/icon-contact-user.png");
+}
+.password{
+        background-image: url("images/icon-contact-pencil.png");
+
+}
 
 
 
@@ -1696,3 +1703,33 @@ ul.arrow {
       color: #ffaa3c; }
   .site-footer .colophon {
     padding-top: 30px; }
+
+.topnav h1
+{
+    left: 60%;
+}
+.topnav {
+  background-color:#ffaa3c;
+  overflow: hidden; 
+  height: 65px;
+}
+.topnav a {
+  float: right;
+  color: #0d5054;
+  text-align: center;
+  padding: 18px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  margin: auto;
+  font-family:cursive;
+    
+}
+.topnav a:hover {
+  background-color: #ddd;
+}
+
+
+
+
+
+        
